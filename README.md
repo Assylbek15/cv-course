@@ -1,0 +1,1 @@
+Ссылка на гугл колаб: https://colab.research.google.com/
